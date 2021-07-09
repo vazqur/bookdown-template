@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Mass Balance 2.0 Manual"
+author: "Richard Vázquez"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
