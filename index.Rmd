@@ -1,5 +1,5 @@
 --- 
-title: "Mass Balance 2.0 Manual"
+title: "MASS BALANCE 2.0 MANUAL"
 author: "Richard Vázquez"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
